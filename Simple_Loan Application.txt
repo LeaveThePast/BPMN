@@ -1,0 +1,5 @@
+##Loan Application
+
+#A loan application is approved if it passes two checks: i) the Applicant’s credit history check, done by a Financial Officer, and ii) the Applicant’s loan risk assessment, done by a Risk Assessor. Once both checks have been performed, a Loan Officer can assess the Applicant’s eligibility. If the Applicant is not eligible, the application is rejected, otherwise it is approved.
+
+#A loan application may be coupled with a home insurance which is offered at discounted prices. The Applicant may express their interest in a home insurance plan at the time of submitting their loan application to the Loan Provider. Based on this information, if the loan application is approved, the Loan Provider may either only send an acceptance pack to the Applicant, or also send a home insurance quote.
